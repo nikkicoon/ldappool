@@ -1,4 +1,4 @@
-module github.com/nikicoon/ldappool
+module github.com/nikkicoon/ldappool
 
 go 1.23
 
